@@ -1,5 +1,5 @@
 # Kaggle-Pandas-course
-<h2>Intro to Pandas tutortial course</h2>
+<h2>Intro to Pandas tutorial course</h2>
 <h4>Solve challenges for data manipulation. </h4>
 <p>
   <ul>
