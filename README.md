@@ -10,3 +10,5 @@
     <li> Notebook 5 - Data Types and Missing Values </li>
     <li> Notebook 6 - Renaming and Combining </li>
     </ul>
+    
+![Kaggle Pandas Certificate](pandascert.png)
